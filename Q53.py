@@ -1,0 +1,5 @@
+x= int(input("輸入ｎ值："))
+name = input("請輸入姓名：")
+mail = input("請輸入電子郵件：")
+find = input("輸入要查詢電子郵件的性名：")
+print(find,"電子郵件帳號為：",mail)
